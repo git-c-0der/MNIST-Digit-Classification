@@ -27,4 +27,4 @@ And over this by using the CNN I achieved:
 * Train Accuracy - 99.5%
 * Validation Accuracy - 99%
 
-So, that's is all about MNIST Digit Classification task.
+So, that's is all about MNIST Digit Classification task. If you face problem here then do check ou my <a href ='https://www.kaggle.com/code/abhishek123maurya/digit-classifiers/'>notebook<a/> on Kaggle.
